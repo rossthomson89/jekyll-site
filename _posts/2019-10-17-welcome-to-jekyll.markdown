@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Welcome to Jekyll!"
-date:   2019-10-18 17:45:20 +0100
+date:   2019-10-17 17:45:20 +0100
 categories: blog
 iconUrl: /assets/imgs/logos/github-icon.svg 
 ---
