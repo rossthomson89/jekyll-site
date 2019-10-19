@@ -216,6 +216,10 @@ nav {
    font-weight: 600;
 }
 
+.copy ul {
+    margin-bottom: 2rem;
+}
+
 .blog_card {
     display: flex;
     align-items: center;
@@ -528,6 +532,19 @@ article date {
     opacity: 0.5;
     margin-bottom: 30px;
     display: block;
+}
+
+.read-more {
+    font-size: 0.7rem;
+    margin-left: auto;
+    text-decoration: underline;
+}
+
+.click-to-view {
+    font-size: 0.7rem;
+    margin-left: 5px;
+    text-decoration: underline;
+    vertical-align: middle;
 }
 
 @media screen and (max-width: 767px) {
