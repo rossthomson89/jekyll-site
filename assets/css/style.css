@@ -1,7 +1,6 @@
 body {
     margin: 0;
     padding: 0;
-    /*background-color: #edf1f3;*/
     font-family: 'Open Sans', sans-serif;
 }
 
@@ -188,7 +187,7 @@ nav {
     margin-bottom: 4rem;
 }
 
-.copy h1 {
+.copy .font-lg {
     font-size: 2rem;
     font-weight: 600;
 }
