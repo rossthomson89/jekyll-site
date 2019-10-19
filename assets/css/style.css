@@ -643,4 +643,22 @@ article date {
     .work_card h5 {
         margin: 0 0 15px;
     }
+
+    .blog_card, .work_card {
+        padding:  1rem;
+    }
+}
+
+@media screen and (max-width: 425px) {
+    .click-to-view {
+        font-size: 0.7rem;
+        margin-left: 0;
+        display: block;
+        width: 100%;
+        margin-bottom: 15px;
+    }
+
+    .work_card h5 {
+        margin: 0;
+    }
 }
