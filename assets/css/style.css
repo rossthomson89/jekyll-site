@@ -187,7 +187,7 @@ nav {
     margin-bottom: 4rem;
 }
 
-.copy .font-lg {
+.copy .font-lg, .font-lg {
     font-size: 2rem;
     font-weight: 600;
 }
