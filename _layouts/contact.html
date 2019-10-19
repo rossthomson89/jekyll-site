@@ -1,9 +1,11 @@
 ---
 layout: default
 ---
-<h2 class="font-lg">{{ page.subtitle }}</h2>
 <div class="copy">
-    {{ content }}
+    <h2>{{ page.subtitle }}</h2>
+    <div>
+        {{ content }}
+    </div>
 </div>
 <form method="POST" action="https://formspree.io/rossthomson89@googlemail.com" class="contact_form" id="form">
     <input type="email" name="email" placeholder="Your email">
